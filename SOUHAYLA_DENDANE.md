@@ -24,7 +24,7 @@
 
 2 verres de farine
 
-__Sirop__
+# Sirop
  
  1 verre de jus d'orange
 
@@ -36,7 +36,7 @@ __Sirop__
 
 
 
-## Cuisson: 
+# Cuisson: 
 
 Faites chauffer le four à 180°C 
 
