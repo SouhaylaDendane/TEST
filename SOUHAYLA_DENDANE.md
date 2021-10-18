@@ -24,7 +24,7 @@
 
 2 verres de farine
 
-# Sirop
+# Sirop :
  
  1 verre de jus d'orange
 
